@@ -1,0 +1,13 @@
+.map {
+    width: 100%; /* Adjust width as needed */
+    height: 650px; /* Adjust height as needed */
+  }
+
+.td {
+    width: 100%; /* Adjust width as needed */
+    height: 650px; 
+}
+
+[class*="copyrights-pane"] {
+    display: none !important;
+  }
